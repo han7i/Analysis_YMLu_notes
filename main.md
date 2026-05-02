@@ -8,3 +8,10 @@
 @import "Chapters/Ch 03.md"
 @import "Chapters/Ch 04.md"
 @import "Chapters/Ch 05.md"
+@import "Chapters/Ch 06.md"
+@import "Chapters/Ch 07.md"
+@import "Chapters/Ch 08.md"
+@import "Chapters/Ch 09.md"
+@import "Chapters/Ch 10.md"
+
+@import "Chapters/Ch 12.md"
